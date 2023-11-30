@@ -32,5 +32,6 @@ npm i express-handlebars@7.1.2`
 ### 執行程式
 
 在 Terminal 輸入 `npm run dev`
-顯示 `express server is running on http://localhost:3000` 即可前往該網址
+顯示 `express server is running on http://localhost:3000` 
+即可前往RestaurantList網址 (http://localhost:3000)
   
