@@ -13,7 +13,7 @@ searchBar - 可依照餐廳名稱及餐廳類別搜尋
 
 1.開啟終端機(Terminal)cd 到存放專案本機位置並執行:
 ```
-`git clone https://github.com/GHSergio/Restaurant-List.git`
+git clone https://github.com/GHSergio/Restaurant-List.git
 ```
 2.開啟終端機(Terminal)，進入存放此專案的資料夾:
 `cd Restaurant`
