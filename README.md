@@ -21,12 +21,13 @@ searchBar - 可依照餐廳名稱及餐廳類別搜尋
 3.安裝套件:
 在 `Terminal` 輸入
 ```
-`npm i express@4.18.2`
-//安裝 express 4.18.2 版本
-
-`npm i express-handlebars@7.1.2`
-//安裝 express-handlebars 7.1.2 版本
+npm i express@4.18.2
 ```
+//安裝 express 4.18.2 版本
+```
+npm i express-handlebars@7.1.2`
+```
+//安裝 express-handlebars 7.1.2 版本
 
 ### 執行程式
 
