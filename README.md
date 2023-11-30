@@ -12,17 +12,20 @@ searchBar - 可依照餐廳名稱及餐廳類別搜尋
 ### 安裝
 
 1.開啟終端機(Terminal)cd 到存放專案本機位置並執行:
-
+```
 `git clone https://github.com/GHSergio/Restaurant-List.git`
-
+```
 2.開啟終端機(Terminal)，進入存放此專案的資料夾:
 `cd Restaurant`
 
 3.安裝套件:
+在 `Terminal` 輸入
 ```
-在 Terminal 輸入
-`npm i express@4.18.2` //安裝 express 4.18.2 版本
-`npm i express-handlebars@7.1.2` //安裝 express-handlebars 7.1.2 版本
+`npm i express@4.18.2`
+//安裝 express 4.18.2 版本
+
+`npm i express-handlebars@7.1.2`
+//安裝 express-handlebars 7.1.2 版本
 ```
 
 ### 執行程式
